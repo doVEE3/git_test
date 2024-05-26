@@ -1,1 +1,1 @@
-doVEE3 
+print("Hello World")
